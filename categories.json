@@ -19,4 +19,24 @@
         "id": "errors",
         "description": "Track errors in your app logic.",
     },
+    {
+        "name": "Natural Language Understanding",
+        "id": "nlu",
+        "description": "Turn natural language text into structured content",
+    },
+    {
+        "name": "Spoken Language Understanding",
+        "id": "slu",
+        "description": "Turn spoken audio into structured content",
+    },
+    {
+        "name": "Automatic Speech Recognition",
+        "id": "asr",
+        "description": "Turn spoken audio into text",
+    },
+    {
+        "name": "Text to Speech",
+        "id": "tts",
+        "description": "Turn text into spoken audio",
+    },
 ]
