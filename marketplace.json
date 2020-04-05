@@ -30,12 +30,12 @@
         "githubUrl": "https://github.com/KaanKC/jovo-plugin-canfulfill-slack"
     },
     {
-        "name": "fallback-airtable",
-        "description": "Automatically store data from incoming Default Fallback Requests in an Airtable spreadsheet.",
-        "type": "plugin",
-        "tags": "tracking,slack",
-        "for": "Dialogflow, GoogleAssistant",
-        "thumbnail": "fallback-airtable.png",
-        "githubUrl": "https://github.com/KaanKC/jovo-plugin-fallback-airtable"
+        "name": "FileDB",
+        "description": "Store user data in a local JSON file for fast prototyping and debugging",
+        "type": "integration",
+        "tags": "data",
+        "for": "",
+        "thumbnail": "",
+        "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-db-filedb"
     }
 ]
