@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Databases",
+        "id": "data",
+        "description": "Places to store user specific data.",
+    },
+    {
+        "name": "Content Management",
+        "id": "cms",
+        "description": "Store and manage content.",
+    },
+    {
+        "name": "Analytics",
+        "id": "analytics",
+        "description": "Analytics and reporting solutions.",
+    },
+    {
+        "name": "Errors and Exceptions",
+        "id": "errors",
+        "description": "Track errors in your app logic.",
+    },
+]
