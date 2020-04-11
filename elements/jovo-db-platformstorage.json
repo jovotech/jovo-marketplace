@@ -1,0 +1,8 @@
+{
+    "name": "Platform Storage",
+    "id": "jovo-db-platformstorage",
+    "description": "Store user data in a platform database instead of on your servers",
+    "type": "integration",
+    "tags": "database",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-db-platformstorage"
+}
