@@ -1,42 +1,62 @@
 [
     {
         "name": "Databases",
-        "id": "data",
-        "description": "Places to store user specific data.",
+        "slug": "databases",
+        "description": "Places to store user specific data."
     },
     {
         "name": "Content Management",
-        "id": "cms",
-        "description": "Store and manage content.",
+        "slug": "cms",
+        "description": "Store and manage content."
     },
     {
         "name": "Analytics",
-        "id": "analytics",
-        "description": "Analytics and reporting solutions.",
+        "slug": "analytics",
+        "description": "Analytics and reporting solutions."
+    },
+    {
+        "name": "Monitoring",
+        "slug": "monitoring",
+        "description": "Stay up to date on what's happening with your app."
     },
     {
         "name": "Errors and Exceptions",
-        "id": "errors",
-        "description": "Track errors in your app logic.",
+        "slug": "errors",
+        "description": "Track errors in your app logic."
     },
     {
         "name": "Natural Language Understanding",
-        "id": "nlu",
-        "description": "Turn natural language text into structured content",
-    },
-    {
-        "name": "Spoken Language Understanding",
-        "id": "slu",
-        "description": "Turn spoken audio into structured content",
+        "slug": "nlu",
+        "description": "Turn natural language text into structured content"
     },
     {
         "name": "Automatic Speech Recognition",
-        "id": "asr",
-        "description": "Turn spoken audio into text",
+        "slug": "asr",
+        "description": "Turn spoken audio into text"
     },
     {
         "name": "Text to Speech",
-        "id": "tts",
-        "description": "Turn text into spoken audio",
+        "slug": "tts",
+        "description": "Turn text into spoken audio"
     },
+    {
+        "name": "Platforms",
+        "slug": "platforms",
+        "description": "Voice and conversational platforms to build on top of"
+    },
+    {
+        "name": "Clients",
+        "slug": "clients",
+        "description": "Frontend integrations with devices and interfaces"
+    },
+    {
+        "name": "Handling",
+        "slug": "handling",
+        "description": "Packages that help you build the app logic"
+    },
+    {
+        "name": "Testing",
+        "slug": "testing",
+        "description": "Solutions for testing and debugging your conversations"
+    }
 ]
