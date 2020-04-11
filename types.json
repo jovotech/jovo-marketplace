@@ -1,22 +1,22 @@
 [
     {
-        "name": "Plugin",
-        "id": "plugin",
-        "description": "Third-party plugins to extend the Jovo Framework",
+        "label": "Plugin",
+        "slug": "plugins",
+        "description": "Third-party plugins to extend the Jovo Framework"
     },
     {
-        "name": "Integration",
-        "id": "integration",
-        "description": "First-party integrations that tie into Jovo's abstracted interfaces",
+        "label": "Integration",
+        "slug": "integrations",
+        "description": "First-party integrations that tie into Jovo's abstracted interfaces"
     },
     {
-        "name": "Template",
-        "id": "template",
-        "description": "Sample templates and starter apps",
+        "label": "Template",
+        "slug": "templates",
+        "description": "Sample templates and starter apps"
     },
     {
-        "name": "Component",
-        "id": "component",
-        "description": "Conversational components that include language models, logic, and response content",
-    },
+        "label": "Component",
+        "slug": "components",
+        "description": "Conversational components that include language models, logic, and response content"
+    }
 ]
