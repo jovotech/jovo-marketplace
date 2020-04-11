@@ -1,61 +1,73 @@
 [
     {
         "name": "Databases",
+        "label": "Database",
         "slug": "databases",
         "description": "Places to store user specific data."
     },
     {
         "name": "Content Management",
+        "label": "Content Management",
         "slug": "cms",
         "description": "Store and manage content."
     },
     {
         "name": "Analytics",
+        "label": "Analytics",
         "slug": "analytics",
         "description": "Analytics and reporting solutions."
     },
     {
         "name": "Monitoring",
+        "label": "Monitoring",
         "slug": "monitoring",
         "description": "Stay up to date on what's happening with your app."
     },
     {
         "name": "Errors and Exceptions",
+        "label": "Errors",
         "slug": "errors",
         "description": "Track errors in your app logic."
     },
     {
         "name": "Natural Language Understanding",
+        "label": "NLU",
         "slug": "nlu",
         "description": "Turn natural language text into structured content"
     },
     {
         "name": "Automatic Speech Recognition",
+        "label": "ASR",
         "slug": "asr",
         "description": "Turn spoken audio into text"
     },
     {
         "name": "Text to Speech",
+        "label": "TTS",
         "slug": "tts",
         "description": "Turn text into spoken audio"
     },
     {
         "name": "Platforms",
+        "label": "Platform",
         "slug": "platforms",
         "description": "Voice and conversational platforms to build on top of"
     },
     {
         "name": "Clients",
+        "label": "Client",
         "slug": "clients",
         "description": "Frontend integrations with devices and interfaces"
     },
     {
         "name": "Handling",
+        "label": "Handling",
         "slug": "handling",
         "description": "Packages that help you build the app logic"
     },
     {
         "name": "Testing",
+        "label": "Testing",
         "slug": "testing",
         "description": "Solutions for testing and debugging your conversations"
     }
