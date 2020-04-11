@@ -2,7 +2,7 @@
     "name": "Jovo Debugger",
     "package": "jovo-plugin-debugger",
     "description": "Browser-based tool to test and debug the conversational flow of your Jovo app",
-    "type": "integration",
+    "type": "integrations",
     "tags": "testing",
     "stack": "local",
     "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-plugin-debugger"

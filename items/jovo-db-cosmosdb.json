@@ -2,7 +2,7 @@
     "name": "Cosmos DB",
     "package": "jovo-db-cosmosdb",
     "description": "Store user data in a Cosmos DB database on Microsoft Azure",
-    "type": "integration",
+    "type": "integrations",
     "tags": "database",
     "stack": "azure",
     "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-db-cosmosdb"

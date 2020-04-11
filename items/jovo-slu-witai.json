@@ -2,7 +2,7 @@
     "name": "Wit.ai SLU",
     "package": "jovo-slu-witai",
     "description": "Service for speech recognition (ASR) and natural language understanding (NLU) provided by Facebook",
-    "type": "integration",
+    "type": "integrations",
     "tags": "slu,asr,nlu",
     "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-slu-witai"
 }

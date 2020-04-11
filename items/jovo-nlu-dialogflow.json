@@ -2,7 +2,7 @@
     "name": "Dialogflow NLU",
     "package": "jovo-nlu-dialogflow",
     "description": "Turn text into structured data with the Dialogflow natural language understanding service",
-    "type": "integration",
+    "type": "integrations",
     "tags": "nlu",
     "stack": "gcloud",
     "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-nlu-dialogflow"

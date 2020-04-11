@@ -2,7 +2,7 @@
     "name": "Google Sheets CMS",
     "package": "jovo-cms-googlesheets",
     "description": "Store and manage responses and other content in Google Sheets",
-    "type": "integration",
+    "type": "integrations",
     "tags": "cms",
     "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-cms-googlesheets"
 }

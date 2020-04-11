@@ -2,7 +2,7 @@
     "name": "Amazon Polly TTS",
     "package": "jovo-tts-polly",
     "description": "Turn text into synthetic speech with AWS",
-    "type": "integration",
+    "type": "integrations",
     "tags": "tts",
     "stack": "aws",
     "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-tts-polly"

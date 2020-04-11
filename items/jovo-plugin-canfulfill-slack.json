@@ -2,7 +2,7 @@
     "name": "CanFulfillRequests to Slack",
     "package": "jovo-plugin-canfulfill-slack",
     "description": "Automatically send data about incoming Alexa CanFulfillRequests to a Slack webhook",
-    "type": "plugin",
+    "type": "plugins",
     "tags": "monitoring",
     "githubUrl": "https://github.com/KaanKC/jovo-plugin-canfulfill-slack"
 }

@@ -2,7 +2,7 @@
     "name": "Endpoint Authentication",
     "package": "jovo-plugin-auth",
     "description": "Methods to secure the app endpoint",
-    "type": "integration",
+    "type": "integrations",
     "tags": "auth",
     "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-plugin-auth"
 }

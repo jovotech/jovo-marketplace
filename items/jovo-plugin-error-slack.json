@@ -2,7 +2,7 @@
     "name": "Errors to Slack",
     "package": "jovo-plugin-error-slack",
     "description": "A Jovo plugin to automatically send error messages to a Slack webhook",
-    "type": "plugin",
+    "type": "plugins",
     "tags": "monitoring",
     "githubUrl": "https://github.com/KaanKC/jovo-plugin-error-slack"
 }

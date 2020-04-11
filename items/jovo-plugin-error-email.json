@@ -2,7 +2,7 @@
     "name": "Errors to Email",
     "package": "jovo-plugin-error-email",
     "description": "Jovo plugin to send errors as an email",
-    "type": "plugin",
+    "type": "plugins",
     "tags": "monitoring",
     "githubUrl": "https://github.com/KaanKC/jovo-plugin-error-email"
 }

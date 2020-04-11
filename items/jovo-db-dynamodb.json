@@ -2,7 +2,7 @@
     "name": "DynamoDB",
     "package": "jovo-db-dynamodb",
     "description": "Store user data in a DynamoDB database on AWS",
-    "type": "integration",
+    "type": "integrations",
     "tags": "database",
     "stack": "aws",
     "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-db-dynamodb"

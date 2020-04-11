@@ -2,7 +2,7 @@
     "name": "Google Firestore",
     "package": "jovo-db-firestore",
     "description": "Store user data in a Firestore database on Google Cloud",
-    "type": "integration",
+    "type": "integrations",
     "tags": "database",
     "stack": "gcloud",
     "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-db-firestore"

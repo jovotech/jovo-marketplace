@@ -2,7 +2,7 @@
     "name": "Chatbase Analytics",
     "package": "jovo-analytics-chatbase",
     "description": "Add virtual agent analytics to your app",
-    "type": "integration",
+    "type": "integrations",
     "tags": "monitoring, analytics",
     "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-analytics-chatbase"
 }

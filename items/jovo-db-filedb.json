@@ -2,7 +2,7 @@
     "name": "FileDB",
     "package": "jovo-db-filedb",
     "description": "Store user data in a local JSON file for fast prototyping and debugging",
-    "type": "integration",
+    "type": "integrations",
     "tags": "database",
     "stack": "local",
     "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-db-filedb"

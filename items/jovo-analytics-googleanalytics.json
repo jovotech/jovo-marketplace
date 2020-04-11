@@ -2,7 +2,7 @@
     "name": "Google Analytics",
     "package": "jovo-analytics-googleanalytics",
     "description": "Track usage data with the popular analytics platform",
-    "type": "integration",
+    "type": "integrations",
     "tags": "monitoring, analytics",
     "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-analytics-googleanalytics"
 }
