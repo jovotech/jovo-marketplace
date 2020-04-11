@@ -1,0 +1,9 @@
+{
+    "name": "Google Cloud TTS",
+    "id": "jovo-tts-gcloud",
+    "description": "Turn text into synthetic speech with Google Cloud",
+    "type": "integration",
+    "tags": "tts",
+    "stack": "gcloud",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-tts-gcloud"
+}

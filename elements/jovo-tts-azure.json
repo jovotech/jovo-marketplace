@@ -1,0 +1,9 @@
+{
+    "name": "Azure TTS",
+    "id": "jovo-tts-azure",
+    "description": "Turn text into synthetic speech with Microsoft Azure",
+    "type": "integration",
+    "tags": "tts",
+    "stack": "azure",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-tts-azure"
+}

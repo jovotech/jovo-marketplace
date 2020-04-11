@@ -1,0 +1,8 @@
+{
+    "name": "Airtable CMS",
+    "id": "jovo-cms-airtable",
+    "description": "Store and manage responses and other content in Airtable databases",
+    "type": "integration",
+    "tags": "cms",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-cms-airtable"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "i18next",
+    "id": "jovo-cms-i18next",
+    "description": "Store and manage multilingual responses (standard integration)",
+    "type": "integration",
+    "tags": "cms",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-cms-i18next"
+}

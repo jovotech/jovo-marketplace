@@ -1,0 +1,9 @@
+{
+    "name": "Google Cloud ASR",
+    "id": "jovo-asr-gcloud",
+    "description": "Turn speech into text with the Google Cloud speech recognition service",
+    "type": "integration",
+    "tags": "asr",
+    "stack": "gcloud",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-asr-gcloud"
+}

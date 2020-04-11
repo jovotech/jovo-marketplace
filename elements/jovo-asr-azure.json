@@ -1,0 +1,9 @@
+{
+    "name": "Azure ASR",
+    "id": "jovo-asr-azure",
+    "description": "Turn speech into text with the Azure speech recognition service",
+    "type": "integration",
+    "tags": "asr",
+    "stack": "azure",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-asr-azure"
+}

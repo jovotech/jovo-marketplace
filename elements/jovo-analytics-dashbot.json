@@ -1,0 +1,8 @@
+{
+    "name": "Dashbot Analytics",
+    "id": "jovo-analytics-dashbot",
+    "description": "Add conversational analytics to your app",
+    "type": "integration",
+    "tags": "monitoring, analytics",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-analytics-dashbot"
+}

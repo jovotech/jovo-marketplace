@@ -1,0 +1,9 @@
+{
+    "name": "nlp.js",
+    "id": "jovo-nlu-nlpjs",
+    "description": "Turn text into structured data with the open source natural language understanding service",
+    "type": "integration",
+    "tags": "nlu",
+    "stack": "local",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-nlu-nlpjs"
+}
