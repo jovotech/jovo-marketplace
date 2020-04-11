@@ -1,6 +1,6 @@
 {
     "name": "Amazon Lex SLU",
-    "id": "jovo-slu-lex",
+    "package": "jovo-slu-lex",
     "description": "Service for speech recognition (ASR) and natural language understanding (NLU) provided by AWS",
     "type": "integration",
     "tags": "slu,asr,nlu",

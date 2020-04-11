@@ -1,6 +1,6 @@
 {
     "name": "Airtable CMS",
-    "id": "jovo-cms-airtable",
+    "package": "jovo-cms-airtable",
     "description": "Store and manage responses and other content in Airtable databases",
     "type": "integration",
     "tags": "cms",

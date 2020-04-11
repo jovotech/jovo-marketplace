@@ -1,6 +1,6 @@
 {
     "name": "MySQL",
-    "id": "jovo-db-mysql",
+    "package": "jovo-db-mysql",
     "description": "Store user data in a MySQL database",
     "type": "integration",
     "tags": "database",

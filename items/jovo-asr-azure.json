@@ -1,6 +1,6 @@
 {
     "name": "Azure ASR",
-    "id": "jovo-asr-azure",
+    "package": "jovo-asr-azure",
     "description": "Turn speech into text with the Azure speech recognition service",
     "type": "integration",
     "tags": "asr",

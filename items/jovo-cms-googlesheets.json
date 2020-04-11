@@ -1,6 +1,6 @@
 {
     "name": "Google Sheets CMS",
-    "id": "jovo-cms-googlesheets",
+    "package": "jovo-cms-googlesheets",
     "description": "Store and manage responses and other content in Google Sheets",
     "type": "integration",
     "tags": "cms",

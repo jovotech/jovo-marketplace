@@ -1,6 +1,6 @@
 {
     "name": "DynamoDB",
-    "id": "jovo-db-dynamodb",
+    "package": "jovo-db-dynamodb",
     "description": "Store user data in a DynamoDB database on AWS",
     "type": "integration",
     "tags": "database",

@@ -1,6 +1,6 @@
 {
     "name": "Cosmos DB",
-    "id": "jovo-db-cosmosdb",
+    "package": "jovo-db-cosmosdb",
     "description": "Store user data in a Cosmos DB database on Microsoft Azure",
     "type": "integration",
     "tags": "database",

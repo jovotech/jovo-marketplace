@@ -1,6 +1,6 @@
 {
     "name": "Google Analytics",
-    "id": "jovo-analytics-googleanalytics",
+    "package": "jovo-analytics-googleanalytics",
     "description": "Track usage data with the popular analytics platform",
     "type": "integration",
     "tags": "monitoring, analytics",

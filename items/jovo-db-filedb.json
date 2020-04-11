@@ -1,6 +1,6 @@
 {
     "name": "FileDB",
-    "id": "jovo-db-filedb",
+    "package": "jovo-db-filedb",
     "description": "Store user data in a local JSON file for fast prototyping and debugging",
     "type": "integration",
     "tags": "database",

@@ -1,6 +1,6 @@
 {
     "name": "nlp.js",
-    "id": "jovo-nlu-nlpjs",
+    "package": "jovo-nlu-nlpjs",
     "description": "Turn text into structured data with the open source natural language understanding service",
     "type": "integration",
     "tags": "nlu",

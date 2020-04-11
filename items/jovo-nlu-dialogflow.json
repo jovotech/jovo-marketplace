@@ -1,6 +1,6 @@
 {
     "name": "Dialogflow NLU",
-    "id": "jovo-nlu-dialogflow",
+    "package": "jovo-nlu-dialogflow",
     "description": "Turn text into structured data with the Dialogflow natural language understanding service",
     "type": "integration",
     "tags": "nlu",

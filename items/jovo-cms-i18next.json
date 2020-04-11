@@ -1,6 +1,6 @@
 {
     "name": "i18next",
-    "id": "jovo-cms-i18next",
+    "package": "jovo-cms-i18next",
     "description": "Store and manage multilingual responses (standard integration)",
     "type": "integration",
     "tags": "cms",

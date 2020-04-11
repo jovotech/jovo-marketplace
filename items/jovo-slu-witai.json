@@ -1,6 +1,6 @@
 {
     "name": "Wit.ai SLU",
-    "id": "jovo-slu-witai",
+    "package": "jovo-slu-witai",
     "description": "Service for speech recognition (ASR) and natural language understanding (NLU) provided by Facebook",
     "type": "integration",
     "tags": "slu,asr,nlu",

@@ -1,6 +1,6 @@
 {
     "name": "Google Firestore",
-    "id": "jovo-db-firestore",
+    "package": "jovo-db-firestore",
     "description": "Store user data in a Firestore database on Google Cloud",
     "type": "integration",
     "tags": "database",

@@ -1,6 +1,6 @@
 {
     "name": "Microsoft LUIS",
-    "id": "jovo-nlu-luis",
+    "package": "jovo-nlu-luis",
     "description": "Turn text into structured data with the Microsoft LUIS natural language understanding service",
     "type": "integration",
     "tags": "nlu",

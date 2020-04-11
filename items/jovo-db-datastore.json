@@ -1,6 +1,6 @@
 {
     "name": "Google Datastore",
-    "id": "jovo-db-datastore",
+    "package": "jovo-db-datastore",
     "description": "Store user data in a Datastore database on Google Cloud",
     "type": "integration",
     "tags": "database",

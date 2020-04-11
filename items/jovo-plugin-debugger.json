@@ -1,6 +1,6 @@
 {
     "name": "Jovo Debugger",
-    "id": "jovo-plugin-debugger",
+    "package": "jovo-plugin-debugger",
     "description": "Browser-based tool to test and debug the conversational flow of your Jovo app",
     "type": "integration",
     "tags": "testing",

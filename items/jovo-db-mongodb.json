@@ -1,6 +1,6 @@
 {
     "name": "MongoDB",
-    "id": "jovo-db-mongodb",
+    "package": "jovo-db-mongodb",
     "description": "Store user data in a MongoDB database",
     "type": "integration",
     "tags": "database",

@@ -1,6 +1,6 @@
 {
     "name": "Dashbot Analytics",
-    "id": "jovo-analytics-dashbot",
+    "package": "jovo-analytics-dashbot",
     "description": "Add conversational analytics to your app",
     "type": "integration",
     "tags": "monitoring, analytics",

@@ -1,6 +1,6 @@
 {
     "name": "Google Cloud TTS",
-    "id": "jovo-tts-gcloud",
+    "package": "jovo-tts-gcloud",
     "description": "Turn text into synthetic speech with Google Cloud",
     "type": "integration",
     "tags": "tts",

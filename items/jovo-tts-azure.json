@@ -1,6 +1,6 @@
 {
     "name": "Azure TTS",
-    "id": "jovo-tts-azure",
+    "package": "jovo-tts-azure",
     "description": "Turn text into synthetic speech with Microsoft Azure",
     "type": "integration",
     "tags": "tts",

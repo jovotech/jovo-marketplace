@@ -1,6 +1,6 @@
 {
     "name": "Pulse Labs",
-    "id": "jovo-plugin-pulselabs",
+    "package": "jovo-plugin-pulselabs",
     "description": "Connect to the Pulse Labs usability testing platform",
     "type": "integration",
     "tags": "testing",

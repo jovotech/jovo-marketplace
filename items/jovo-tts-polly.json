@@ -1,6 +1,6 @@
 {
     "name": "Amazon Polly TTS",
-    "id": "jovo-tts-polly",
+    "package": "jovo-tts-polly",
     "description": "Turn text into synthetic speech with AWS",
     "type": "integration",
     "tags": "tts",
