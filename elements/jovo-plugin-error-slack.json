@@ -1,0 +1,8 @@
+{
+    "name": "Errors to Slack",
+    "id": "jovo-plugin-error-slack",
+    "description": "A Jovo plugin to automatically send error messages to a Slack webhook",
+    "type": "plugin",
+    "tags": "monitoring",
+    "githubUrl": "https://github.com/KaanKC/jovo-plugin-error-slack"
+}
