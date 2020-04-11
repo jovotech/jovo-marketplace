@@ -3,6 +3,6 @@
     "package": "jovo-db-platformstorage",
     "description": "Store user data in a platform database instead of on your servers",
     "type": "integrations",
-    "tags": "database",
+    "tags": "databases",
     "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-db-platformstorage"
 }

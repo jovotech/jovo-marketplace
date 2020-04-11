@@ -3,7 +3,7 @@
     "package": "jovo-db-datastore",
     "description": "Store user data in a Datastore database on Google Cloud",
     "type": "integrations",
-    "tags": "database",
+    "tags": "databases",
     "stack": "gcloud",
     "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-db-datastore"
 }

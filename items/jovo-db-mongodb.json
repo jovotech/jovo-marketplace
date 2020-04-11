@@ -3,6 +3,6 @@
     "package": "jovo-db-mongodb",
     "description": "Store user data in a MongoDB database",
     "type": "integrations",
-    "tags": "database",
+    "tags": "databases",
     "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-db-mongodb"
 }

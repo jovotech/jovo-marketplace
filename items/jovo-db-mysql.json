@@ -3,6 +3,6 @@
     "package": "jovo-db-mysql",
     "description": "Store user data in a MySQL database",
     "type": "integrations",
-    "tags": "database",
+    "tags": "databases",
     "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-db-mysql"
 }
