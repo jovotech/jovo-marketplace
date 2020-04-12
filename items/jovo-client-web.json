@@ -1,0 +1,8 @@
+{
+    "name": "Web Client",
+    "package": "jovo-client-web",
+    "description": "Build voice experiences and chatbots for the web",
+    "type": "integrations",
+    "tags": "clients",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-client-web"
+}

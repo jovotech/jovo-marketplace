@@ -1,0 +1,8 @@
+{
+    "name": "VueJS Web Client",
+    "package": "jovo-client-web-vue",
+    "description": "Build voice experiences and chatbots for the web with Jovo and VueJS",
+    "type": "integrations",
+    "tags": "clients",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-client-web-vue"
+}
