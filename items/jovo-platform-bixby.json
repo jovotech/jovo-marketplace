@@ -1,0 +1,8 @@
+{
+    "name": "Samsung Bixby",
+    "package": "jovo-platform-bixby",
+    "description": "Build apps for Samsung's Bixby assistant platform",
+    "type": "integrations",
+    "tags": "platforms",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-bixby"
+}

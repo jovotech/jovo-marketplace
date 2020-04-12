@@ -1,0 +1,8 @@
+{
+    "name": "Amazon Alexa",
+    "package": "jovo-platform-alexa",
+    "description": "Build apps for Amazon's Alexa assistant platform",
+    "type": "integrations",
+    "tags": "platforms",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-alexa"
+}
