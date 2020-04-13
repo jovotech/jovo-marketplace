@@ -1,0 +1,8 @@
+{
+    "name": "Speech Markdown",
+    "package": "jovo-plugin-speechmarkdown",
+    "description": "Text-to-speech formatting for content authors, designers, and developers",
+    "type": "plugins",
+    "tags": "cms",
+    "githubUrl": "https://github.com/speechmarkdown/jovo-plugin-speechmarkdown"
+}
