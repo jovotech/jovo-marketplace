@@ -1,0 +1,8 @@
+{
+    "name": "Resumer",
+    "package": "jovo-plugin-resume",
+    "description": "A plugin for resuming conversations",
+    "type": "plugins",
+    "tags": "handling",
+    "githubUrl": "https://github.com/Comcast/jovo-plugin-resume"
+}

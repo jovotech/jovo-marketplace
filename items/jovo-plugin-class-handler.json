@@ -1,0 +1,8 @@
+{
+    "name": "Class Handler",
+    "package": "jovo-plugin-class-handler",
+    "description": "A Jovo plugin to use classes as handlers",
+    "type": "plugins",
+    "tags": "handling",
+    "githubUrl": "https://github.com/m-ripper/jovo-plugin-class-handler"
+}
