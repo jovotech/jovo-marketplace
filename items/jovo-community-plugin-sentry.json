@@ -1,0 +1,8 @@
+{
+    "name": "Sentry Monitoring",
+    "package": "jovo-community-plugin-sentry",
+    "description": "Add error monitoring with Sentry.io",
+    "type": "plugins",
+    "tags": "monitoring, errors",
+    "githubUrl": "https://github.com/jovo-community/jovo-community-plugin-sentry"
+}
