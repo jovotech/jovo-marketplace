@@ -1,0 +1,8 @@
+{
+    "name": "Google Assistant",
+    "package": "jovo-platform-googleassistant",
+    "description": "Build apps for Google's Assistant platform",
+    "type": "integrations",
+    "tags": "platforms",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-googleassistant"
+}
