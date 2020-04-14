@@ -1,0 +1,8 @@
+{
+    "name": "Jargon CMS",
+    "package": "@jargon/platform-jovo",
+    "description": "Manage runtime content and support multiple languages with Jargon",
+    "type": "plugins",
+    "tags": "cms",
+    "readme": "Welcome to the Jargon Platform Jovo Plugin! Please see https://jargon-platform.gitlab.io/platform-sdk-nodejs for documentation on how to use this package."
+}
