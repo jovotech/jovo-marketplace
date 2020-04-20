@@ -1,0 +1,8 @@
+{
+    "name": "Voxalyze",
+    "package": "@voxalyze/jovo-plugin",
+    "description": "Ret real-time reports and insights about your Alexa skill visitors",
+    "type": "plugins",
+    "tags": "monitoring, analytics",
+    "githubUrl": "https://github.com/voxalyze/jovo-plugin"
+}
