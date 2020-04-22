@@ -5,5 +5,6 @@
     "type": "integrations",
     "tags": "nlu",
     "stack": "local",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-nlu-nlpjs"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-nlu-nlpjs",
+    "thumbnail": "https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/jovo-nlu-nlpjs.png"
 }

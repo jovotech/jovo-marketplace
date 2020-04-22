@@ -4,5 +4,6 @@
     "description": "Store user data in a MySQL database",
     "type": "integrations",
     "tags": "databases",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-db-mysql"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-db-mysql",
+    "thumbnail": "https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/jovo-db-mysql.png"
 }

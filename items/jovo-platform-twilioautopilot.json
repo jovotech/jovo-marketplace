@@ -4,5 +4,6 @@
     "description": "Build apps for the phone and text with Twilio's Autopilot platform",
     "type": "integrations",
     "tags": "platforms",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-twilioautopilot"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-twilioautopilot",
+    "thumbnail": "https://avatars.githubusercontent.com/twilio"
 }

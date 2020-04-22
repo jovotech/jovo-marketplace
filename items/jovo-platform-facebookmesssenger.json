@@ -4,5 +4,6 @@
     "description": "Build apps for Facebook's Messenger platform",
     "type": "integrations",
     "tags": "platforms",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-facebookmessenger"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-facebookmessenger",
+    "thumbnail": "https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/jovo-platform-facebookmessenger.png"
 }

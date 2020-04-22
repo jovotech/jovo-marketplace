@@ -4,5 +4,6 @@
     "description": "Build apps for platforms like Messenger and Slack by using Dialogflow as connecting platform",
     "type": "integrations",
     "tags": "platforms",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-dialogflow"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-dialogflow",
+    "thumbnail": "https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/dialogflow.png"
 }

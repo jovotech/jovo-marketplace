@@ -4,5 +4,6 @@
     "description": "Store and manage multilingual responses (standard integration)",
     "type": "integrations",
     "tags": "cms",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-cms-i18next"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-cms-i18next",
+    "thumbnail": "https://avatars.githubusercontent.com/i18next"
 }

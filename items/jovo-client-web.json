@@ -4,5 +4,6 @@
     "description": "Build voice experiences and chatbots for the web",
     "type": "integrations",
     "tags": "clients",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-clients/jovo-client-web"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-clients/jovo-client-web",
+    "thumbnail": "https://avatars.githubusercontent.com/GoogleChrome"
 }

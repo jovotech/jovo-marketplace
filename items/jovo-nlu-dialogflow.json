@@ -5,5 +5,6 @@
     "type": "integrations",
     "tags": "nlu",
     "stack": "gcloud",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-nlu-dialogflow"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-nlu-dialogflow",
+    "thumbnail": "https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/dialogflow.png"
 }

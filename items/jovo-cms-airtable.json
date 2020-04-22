@@ -4,5 +4,6 @@
     "description": "Store and manage responses and other content in Airtable databases",
     "type": "integrations",
     "tags": "cms",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-cms-airtable"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-cms-airtable",
+    "thumbnail": "https://avatars.githubusercontent.com/airtable"
 }

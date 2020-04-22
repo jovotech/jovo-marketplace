@@ -4,5 +4,6 @@
     "description": "Track usage data with the popular analytics platform",
     "type": "integrations",
     "tags": "monitoring, analytics",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-analytics-googleanalytics"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-analytics-googleanalytics",
+    "thumbnail": "https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/jovo-analytics-googleanalytics.png"
 }

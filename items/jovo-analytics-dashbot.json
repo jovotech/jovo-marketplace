@@ -4,5 +4,6 @@
     "description": "Add conversational analytics to your app",
     "type": "integrations",
     "tags": "monitoring, analytics",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-analytics-dashbot"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-analytics-dashbot",
+    "thumbnail": "https://avatars.githubusercontent.com/actionably"
 }

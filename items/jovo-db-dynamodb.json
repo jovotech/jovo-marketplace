@@ -5,5 +5,6 @@
     "type": "integrations",
     "tags": "databases",
     "stack": "aws",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-db-dynamodb"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-db-dynamodb",
+    "thumbnail": "https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/jovo-db-dynamodb.png"
 }

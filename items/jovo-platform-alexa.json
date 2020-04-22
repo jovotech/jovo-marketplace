@@ -4,5 +4,6 @@
     "description": "Build apps for Amazon's Alexa assistant platform",
     "type": "integrations",
     "tags": "platforms",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-alexa"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-alexa",
+    "thumbnail": "https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/jovo-platform-alexa.png"
 }

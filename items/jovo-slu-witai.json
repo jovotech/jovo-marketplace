@@ -4,5 +4,6 @@
     "description": "Service for speech recognition (ASR) and natural language understanding (NLU) provided by Facebook",
     "type": "integrations",
     "tags": "slu,asr,nlu",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-slu-witai"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-slu-witai",
+    "thumbnail": "https://avatars.githubusercontent.com/wit-ai"
 }

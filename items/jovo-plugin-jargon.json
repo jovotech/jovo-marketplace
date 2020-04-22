@@ -5,5 +5,6 @@
     "type": "plugins",
     "tags": "cms",
     "readme": "Welcome to the Jargon Platform Jovo Plugin! Please see [https://jargon-platform.gitlab.io/platform-sdk-nodejs](https://jargon-platform.gitlab.io/platform-sdk-nodejs) for documentation on how to use this package.",
-    "maintainer": "jargon"
+    "maintainer": "jargon",
+    "thumbnail": "https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/jovo-plugin-jargon.png"
 }

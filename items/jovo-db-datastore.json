@@ -5,5 +5,6 @@
     "type": "integrations",
     "tags": "databases",
     "stack": "gcloud",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-db-datastore"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-db-datastore",
+    "thumbnail": "https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/jovo-db-datastore.png"
 }

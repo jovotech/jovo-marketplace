@@ -4,5 +4,6 @@
     "description": "Add virtual agent analytics to your app",
     "type": "integrations",
     "tags": "monitoring, analytics",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-analytics-chatbase"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-analytics-chatbase",
+    "thumbnail": "https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/jovo-analytics-chatbase.png"
 }

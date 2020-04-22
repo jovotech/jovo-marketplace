@@ -4,5 +4,6 @@
     "description": "Store user data in a MongoDB database",
     "type": "integrations",
     "tags": "databases",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-db-mongodb"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-db-mongodb",
+    "thumbnail": "https://avatars.githubusercontent.com/mongodb"
 }

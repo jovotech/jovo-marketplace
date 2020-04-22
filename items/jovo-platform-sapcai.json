@@ -4,5 +4,6 @@
     "description": "Build apps for SAP's Conversational AI platform",
     "type": "integrations",
     "tags": "platforms",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-sapcai"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-sapcai",
+    "thumbnail": "https://avatars.githubusercontent.com/SAPconversationalAI"
 }

@@ -4,5 +4,6 @@
     "description": "Store and manage responses and other content in Google Sheets",
     "type": "integrations",
     "tags": "cms",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-cms-googlesheets"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-cms-googlesheets",
+    "thumbnail": "https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/jovo-cms-googlesheets.png"
 }

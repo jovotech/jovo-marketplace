@@ -4,5 +4,6 @@
     "description": "Connect to the Pulse Labs usability testing platform",
     "type": "integrations",
     "tags": "testing",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-plugin-pulselabs"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-plugin-pulselabs",
+    "thumbnail": "https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/jovo-plugin-pulselabs.png"
 }
