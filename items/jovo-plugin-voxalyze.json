@@ -1,7 +1,7 @@
 {
     "name": "Voxalyze",
     "package": "@voxalyze/jovo-plugin",
-    "description": "Get real-time reports and insights about your Alexa skill visitors",
+    "description": "User Acquisition Analytics for Alexa Skills",
     "type": "plugins",
     "tags": "monitoring, analytics",
     "githubUrl": "https://github.com/voxalyze/jovo-plugin",
