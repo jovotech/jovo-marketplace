@@ -70,5 +70,11 @@
         "label": "Testing",
         "slug": "testing",
         "description": "Solutions for testing and debugging your conversations"
+    },
+    {
+        "name": "Deployment",
+        "label": "Deployment",
+        "slug": "deployment",
+        "description": "Build and deployment workflows"
     }
 ]

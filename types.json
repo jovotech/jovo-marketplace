@@ -1,5 +1,10 @@
 [
     {
+        "label": "Tool",
+        "slug": "tools",
+        "description": "Tools and libraries for a better voice app development workflow"
+    },
+    {
         "label": "Plugin",
         "slug": "plugins",
         "description": "Third-party plugins to extend the Jovo Framework"
