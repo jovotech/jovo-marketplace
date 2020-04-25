@@ -1,7 +1,7 @@
 {
     "name": "Jovo CLI",
     "package": "jovo-cli",
-    "description": "Browser-based tool to test and debug the conversational flow of your Jovo app",
+    "description": "Command line tool to create, prototype, test, and deploy your voice app.",
     "type": "tools",
     "tags": "deployment",
     "githubUrl": "https://github.com/jovotech/jovo-cli",
