@@ -4,5 +4,6 @@
     "description": "Build your own voice and text assistant by extending Jovo's core platform",
     "type": "integrations",
     "tags": "platforms",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-core"
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-core",
+    "thumbnail": "https://avatars.githubusercontent.com/jovotech"
 }
