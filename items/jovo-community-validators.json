@@ -1,0 +1,8 @@
+{
+    "name": "Community Validators",
+    "package": "jovo-community-validators",
+    "description": "This library provides a collection of Input Validators",
+    "type": "plugins",
+    "tags": "handling, validation",
+    "githubUrl": "https://github.com/jovo-community/jovo-community-validators"
+}
