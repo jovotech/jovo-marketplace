@@ -1,0 +1,8 @@
+{
+    "name": "Time Zone Plugin",
+    "package": "jovo-community-plugin-timezone",
+    "description": "Cross-platform access to the user's timezone including defaults per country code.",
+    "type": "plugins",
+    "tags": "handling",
+    "githubUrl": "https://github.com/jovo-community/jovo-community-plugin-timezone"
+}
