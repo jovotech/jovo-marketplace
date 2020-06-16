@@ -1,0 +1,9 @@
+{
+    "name": "Lindenbaum Cognitive Voice",
+    "package": "jovo-platform-lindenbaum",
+    "description": "Build phone bots and IVRs for Lindenbaum's Cognitive Voice platform",
+    "type": "integrations",
+    "tags": "platforms",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-lindenbaum",
+    "thumbnail": "https://avatars.githubusercontent.com/lindenbaum"
+}
