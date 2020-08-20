@@ -1,0 +1,9 @@
+{
+    "name": "Jovo Model",
+    "package": "jovo-model",
+    "description": "A language model abstraction layer that works across NLU providers.",
+    "type": "tools",
+    "tags": "nlu",
+    "githubUrl": "https://github.com/jovotech/jovo-model",
+    "thumbnail": "https://avatars.githubusercontent.com/jovotech"
+}
