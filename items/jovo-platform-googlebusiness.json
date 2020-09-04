@@ -1,0 +1,9 @@
+{
+    "name": "Google Business Messages",
+    "package": "jovo-platform-googlebusiness",
+    "description": "Build conversational experiences for Google Maps, Search, and more",
+    "type": "integrations",
+    "tags": "platforms",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-googlebbusiness",
+    "thumbnail": "https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/jovo-platform-googlebusiness.png"
+}
