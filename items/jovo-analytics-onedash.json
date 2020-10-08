@@ -1,0 +1,9 @@
+{
+    "name": "OneDash Analytics",
+    "package": "jovo-analytics-onedash",
+    "description": "Add analytics tool to your app",
+    "type": "integrations",
+    "tags": "monitoring, analytics",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-analytics-onedash",
+    "thumbnail": "https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/jovo-analytics-onedash.png"
+}
