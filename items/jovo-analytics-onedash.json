@@ -1,7 +1,7 @@
 {
     "name": "OneDash Analytics",
     "package": "jovo-analytics-onedash",
-    "description": "Add analytics tool to your app",
+    "description": "Gain insights from your customers' conversations",
     "type": "integrations",
     "tags": "monitoring, analytics",
     "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-integrations/jovo-analytics-onedash",
