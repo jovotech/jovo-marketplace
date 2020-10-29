@@ -1,0 +1,9 @@
+{
+    "name": "Jovo Web Platform",
+    "package": "jovo-platform-web",
+    "description": "Build your own voice and text assistant for the browser",
+    "type": "integrations",
+    "tags": "platforms",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-web",
+    "thumbnail": "https://avatars.githubusercontent.com/jovotech"
+}
