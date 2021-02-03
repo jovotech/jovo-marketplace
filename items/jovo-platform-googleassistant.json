@@ -1,5 +1,5 @@
 {
-    "name": "Google Assistant",
+    "name": "Google Assistant (Dialogflow)",
     "package": "jovo-platform-googleassistant",
     "description": "Build apps for Google's Assistant platform using Dialogflow",
     "type": "integrations",

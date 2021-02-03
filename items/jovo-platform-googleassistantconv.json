@@ -1,6 +1,6 @@
 {
-    "name": "Google Assistant",
-    "package": "jovo-platform-googleassistant",
+    "name": "Google Assistant (Conversational)",
+    "package": "jovo-platform-googleassistantconv",
     "description": "Build Conversational Actions for Google's Assistant platform",
     "type": "integrations",
     "tags": "platforms",
