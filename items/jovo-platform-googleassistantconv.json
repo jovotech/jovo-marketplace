@@ -1,9 +1,9 @@
 {
     "name": "Google Assistant",
     "package": "jovo-platform-googleassistant",
-    "description": "Build apps for Google's Assistant platform using Dialogflow",
+    "description": "Build Conversational Actions for Google's Assistant platform",
     "type": "integrations",
     "tags": "platforms",
-    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-googleassistant",
+    "githubUrl": "https://github.com/jovotech/jovo-framework/tree/master/jovo-platforms/jovo-platform-googleassistantconv",
     "thumbnail": "https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/jovo-platform-googleassistant.png"
 }
